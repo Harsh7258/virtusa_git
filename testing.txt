@@ -2,3 +2,5 @@ Testing -
 
 Testing some commands of git.
 Using Git Bash for commits and commands to test
+
+editing the file for - git log 
