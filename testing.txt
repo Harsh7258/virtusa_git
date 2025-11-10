@@ -18,3 +18,11 @@ tested
 
 - pulled above ln 11 to ln 17
 from branch virtusa
+
+- git branch -D dev
+Deleted branch dev (was c0fd7f9).
+tested
+
+- git branch -b newbranch
+create and save
+tested
