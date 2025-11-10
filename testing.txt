@@ -7,3 +7,12 @@ editing the file for - git log
 
 +editing the file for - git diff
 +check for diff in the file
+
+tested checkout <file name>
+
+testing reset head cmd
+tested reset HEAD <>
+
+new branch cmd - branch <>
+tested
+
